@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jerrykapa/personal-website.git/static/css/main.8ed8ded5.chunk.css",
+    "main.js": "/jerrykapa/personal-website.git/static/js/main.8a850a38.chunk.js",
+    "main.js.map": "/jerrykapa/personal-website.git/static/js/main.8a850a38.chunk.js.map",
+    "runtime-main.js": "/jerrykapa/personal-website.git/static/js/runtime-main.0ba1cce4.js",
+    "runtime-main.js.map": "/jerrykapa/personal-website.git/static/js/runtime-main.0ba1cce4.js.map",
+    "static/js/2.bb97d982.chunk.js": "/jerrykapa/personal-website.git/static/js/2.bb97d982.chunk.js",
+    "static/js/2.bb97d982.chunk.js.map": "/jerrykapa/personal-website.git/static/js/2.bb97d982.chunk.js.map",
+    "static/js/3.bb11ae27.chunk.js": "/jerrykapa/personal-website.git/static/js/3.bb11ae27.chunk.js",
+    "static/js/3.bb11ae27.chunk.js.map": "/jerrykapa/personal-website.git/static/js/3.bb11ae27.chunk.js.map",
+    "index.html": "/jerrykapa/personal-website.git/index.html",
+    "static/css/main.8ed8ded5.chunk.css.map": "/jerrykapa/personal-website.git/static/css/main.8ed8ded5.chunk.css.map",
+    "static/js/2.bb97d982.chunk.js.LICENSE.txt": "/jerrykapa/personal-website.git/static/js/2.bb97d982.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/jerrykapa/personal-website.git/static/media/hero.b32934ce.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ba1cce4.js",
+    "static/js/2.bb97d982.chunk.js",
+    "static/css/main.8ed8ded5.chunk.css",
+    "static/js/main.8a850a38.chunk.js"
+  ]
+}
